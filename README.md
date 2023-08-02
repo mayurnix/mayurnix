@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayur Mistry</h1>
 <h3 align="center">A Coder from India</h3>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **machin learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate with **Data analys**
+- 👯 I’m looking to collaborate with **Data Analys**
 
-- 🤝 I’m looking for help with **python**
+- 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
